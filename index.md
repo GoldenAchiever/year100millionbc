@@ -2,6 +2,9 @@
 title: Home
 layout: home
 ---
+you are barely human. the world is new and fire is rare.
+the world is cruel. fULL of teeth and storms and hunger.
+
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
