@@ -1,5 +1,5 @@
 ---
-title: Home
+title: HOME
 layout: home
 ---
 You are barely human.  
