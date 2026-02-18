@@ -18,3 +18,5 @@ A fire is spreading, a friend is trapped, or defusing an argument with a strange
 When something comes down to luck, roll a d6. High is good for the players, low is bad. The referee decide what the roll means.
 ## Turns
 A turn is the astract amount of time it takes to move and perform one action. Minor actions, like drawing a weapon, can replace movement.
+<br><br><br>
+(Work in progress)
