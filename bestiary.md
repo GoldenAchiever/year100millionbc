@@ -46,7 +46,7 @@ Big fur beast. Tusk long. Walk slow. Crush everything. Fat!
 18 STR, 8 DEX, 20 HP  
 D12 Trample
 <br><br>
-![Animals](assets/img/Animals.png)
+![Animals](assets/img/Animals_v2.png)
 <br><br>
 
 # FRIENDLY THINGS
