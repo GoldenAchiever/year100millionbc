@@ -6,3 +6,12 @@ theme: just-the-docs
 
 url: http://github.com/GoldenAchiever/year100millionbc
 
+aux_links_new_tab: true
+
+sass:
+  load_paths:
+    - _sass
+
+# Enable custom CSS
+include:
+  - assets/css
