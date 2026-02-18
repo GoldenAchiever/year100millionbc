@@ -3,7 +3,7 @@ description: FERAL PREHISTORIC RPG
 
 theme: just-the-docs
 
-logo: "/year100millionbc/assets/img/LogoThreeDudes.png"
+logo: "{{ site.baseurl }}/assets/img/LogoThreeDudes.png"
 
 url: "https://goldenachiever.github.io"
 baseurl: "/year100millionbc"
