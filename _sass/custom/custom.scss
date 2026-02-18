@@ -24,14 +24,23 @@ body,
   box-shadow: none !important;
 }
 
-.site-search input {
-  background-color: #25343F !important;
-  color: #FFFFFF !important;
-  border: 1px solid #EAEFEF !important;
+/* Search Bar Input */
+.header-search input[type="text"] {
+  background-color: #25343F !important; /* match page background */
+  color: #EAEFEF !important;            /* text color */
+  border: 1px solid #EAEFEF !important; /* optional border */
+  caret-color: #EAEFEF !important;      /* cursor color */
 }
 
-/* Placeholder text color */
-.site-search input::placeholder {
-  color: #FFFFFF !important;
-  opacity: 0.7; /* optional: slightly lighter */
+/* Placeholder text */
+.header-search input[type="text"]::placeholder {
+  color: #EAEFEF !important;
+  opacity: 0.7;
+}
+
+/* Remove focus glow */
+.header-search input[type="text"]:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: #EAEFEF !important;
 }
