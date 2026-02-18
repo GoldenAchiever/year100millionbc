@@ -1,4 +1,9 @@
+---
+title: Make a Character
+nav_order: 2
+---
 
+# Make a Character
 Your Character
 Roll 3d6 for the two Ability Scores.
 Strength: Fighting, brute force, survival.
