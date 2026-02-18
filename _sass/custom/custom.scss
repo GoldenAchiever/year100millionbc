@@ -20,6 +20,18 @@ body,
 
 .side-bar li a,
 .side-bar li a.active {
-  background: none !important;      // remove gradient
-  box-shadow: none !important;      // remove hover shadow
+  background: none !important;
+  box-shadow: none !important;
+}
+
+.site-search input {
+  background-color: #25343F !important;
+  color: #FFFFFF !important;
+  border: 1px solid #EAEFEF !important;
+}
+
+/* Placeholder text color */
+.site-search input::placeholder {
+  color: #FFFFFF !important;
+  opacity: 0.7; /* optional: slightly lighter */
 }
