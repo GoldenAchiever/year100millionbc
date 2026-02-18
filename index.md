@@ -14,3 +14,5 @@ This is role-playing game about primitive humans. One person is the referee. The
 You’ll need a set of polyhedral dice (d4, d6, d8, d10, d12, d20), and something to write with.<br><br>
 
 The game is written and designed by <a href="https://bsky.app/profile/golden-achiever.bsky.social" target="_blank">Golden Achiever</a>.
+<br><br>
+Rules based on Into the Odd by Chris McDowall www.bastionland.com
