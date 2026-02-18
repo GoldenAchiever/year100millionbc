@@ -11,5 +11,4 @@ baseurl: "/year100millionbc"
 aux_links_new_tab: true
 
 just_the_docs:
-  custom_css:
-    - assets/css/custom.css
+  color_scheme: custom
