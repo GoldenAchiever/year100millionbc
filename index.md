@@ -11,6 +11,7 @@ You’ll need a set of polyhedral dice (d4, d6, d8, d10, d12, d20), and somethin
 
 The game is written and designed by <a href="https://bsky.app/profile/golden-achiever.bsky.social" target="_blank">Golden Achiever</a>.
 <br><br>
-In active development February - April 2026. More content to follow.
+In active development February - April 2026. More content to follow.  
+Work is ongoing on a full release, including a keyed overland map, cave adventures, DM advice, and a bunch of generators.
 <br><br>
 Rules based on Into the Odd by Chris McDowall www.bastionland.com
