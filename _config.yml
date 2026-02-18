@@ -8,6 +8,8 @@ logo: "{{ site.baseurl }}/assets/img/LogoThreeDudes.png"
 url: "https://goldenachiever.github.io"
 baseurl: "/year100millionbc"
 
+aux_links_new_tab: true
+
 just_the_docs:
   custom_css:
     - assets/css/custom.css
