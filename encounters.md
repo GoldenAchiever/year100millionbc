@@ -34,7 +34,7 @@ Unless a player is keeping watch, the party will be surprised by the encounter<b
 3. 1d10 Rockbacks
 4. 1d10 Rivals
 5. Gorejaw
-1d100 Fatclaws<br><br>
+6. 1d100 Fatclaws<br><br>
 
 ## SWAMP ENCOUNTERS
 Always roll for encounter. d4 during day, d6 at night.  
