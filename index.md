@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: Year 100 Million B.C.
 nav_order: 1
 layout: home
 ---
