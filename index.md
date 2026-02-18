@@ -3,10 +3,10 @@ title: HOME
 nav_order: 1
 layout: home
 ---
-You are barely human.  
+**You are barely human.  
 The world is new and fire is rare.  
 The world is cruel.  
-Full of teeth and storms and hunger.
+Full of teeth and storms and hunger.**
 <br><br>
 ![Logo Three Dudes](assets/img/WideLogo.png)
 <br><br>
