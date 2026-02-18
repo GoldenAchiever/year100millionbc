@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
 
 body,
 .main-content,
@@ -16,6 +17,11 @@ body,
 .main-content h6,
 .main-content li {
   color: #FFFFFF !important;
+}
+
+/* Headings (H1-H6) use Archivo */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Archivo', sans-serif !important;
 }
 
 .side-bar li a,
