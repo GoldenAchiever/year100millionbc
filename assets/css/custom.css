@@ -3,3 +3,7 @@
   max-height: none !important;
   height: 150px !important;
 }
+
+body {
+  background-color: #25343F;
+}
