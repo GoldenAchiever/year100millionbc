@@ -5,6 +5,10 @@ layout: default
 ---
 
 # THINGS TO EAT OR GET EATEN BY
+
+![Animals](assets/img/Animals_v2.png)
+<br><br>
+
 ## 1. Fatclaw
 Big claws. Run fast. Snap bones. Taste good!  
 2 STR, 6 DEX, 2 HP  
@@ -45,8 +49,6 @@ d10 Talons
 Big fur beast. Tusk long. Walk slow. Crush everything. Fat!  
 18 STR, 8 DEX, 20 HP  
 D12 Trample
-<br><br>
-![Animals](assets/img/Animals_v2.png)
 <br><br>
 
 # FRIENDLY THINGS
