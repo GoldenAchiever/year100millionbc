@@ -4,6 +4,7 @@ nav_order: 25
 layout: default
 ---
 
+## RESTING
 Roll d6 when sleeping without a proper shelter:  
 1-4. Nothing <br> 5: One man-eater scout <br> 6: One gorejaw <br>
 Unless a player is keeping watch, the party will be surprised by the encounter<br><br>
