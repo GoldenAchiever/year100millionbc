@@ -1,6 +1,6 @@
 ---
 title: Make a Character
-nav_order: 2
+nav_order: 22
 layout: default
 ---
 
