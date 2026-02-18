@@ -25,22 +25,37 @@ body,
 }
 
 /* Search Bar Input */
-.header-search input[type="text"] {
+div.header-search input#search {
   background-color: #40513B !important; /* match page background */
   color: #FFFFFF !important;            /* text color */
-  border: 1px solid #FFFFFF !important; /* optional border */
-  caret-color: #FFFFFF !important;      /* cursor color */
+  border: 1px solid #FFFFFF !important;
+  caret-color: #FFFFFF !important;
 }
 
 /* Placeholder text */
-.header-search input[type="text"]::placeholder {
+div.header-search input#search::placeholder {
   color: #FFFFFF !important;
   opacity: 0.7;
 }
 
 /* Remove focus glow */
-.header-search input[type="text"]:focus {
+div.header-search input#search:focus {
   outline: none !important;
   box-shadow: none !important;
   border-color: #FFFFFF !important;
+}
+
+/* Autocomplete dropdown */
+div.header-search .autocomplete-suggestions {
+  background-color: #40513B !important;
+  color: #FFFFFF !important;
+  border: 1px solid #FFFFFF !important;
+}
+
+div.header-search .autocomplete-suggestion {
+  color: #FFFFFF !important;
+}
+
+div.header-search .autocomplete-suggestion:hover {
+  background-color: #2E3A2B !important; /* slightly darker on hover */
 }
