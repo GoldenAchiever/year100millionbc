@@ -46,6 +46,8 @@ Big fur beast. Tusk long. Walk slow. Crush everything. Fat!
 18 STR, 8 DEX, 20 HP  
 D12 Trample
 <br><br>
+![Animals](assets/img/Animals.png)
+<br><br>
 
 # FRIENDLY THINGS
 Some beasts not mean. Some eat grass. Slow and dumb, but kind. If you feed them, they follow. If you ride them, they carry you far.
