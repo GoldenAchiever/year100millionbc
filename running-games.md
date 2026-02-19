@@ -18,5 +18,18 @@ A fire is spreading, a friend is trapped, or defusing an argument with a strange
 When something comes down to luck, roll a d6. High is good for the players, low is bad. The referee decide what the roll means.
 ## Turns
 A turn is the astract amount of time it takes to move and perform one action. Minor actions, like drawing a weapon, can replace movement.
-<br><br><br>
-(Work in progress)
+
+# Survival
+## Rations & Water
+1 ration can feed on person per day. But what if they go without?  
+After one day without water, a character loses 1 STR per day. At 0 STR, they die. After three days without food, the same applies, 1 STR lost per day until death.  
+Water can be found by licking cave walls, eating roots or frogs, digging near green plants, standing in the rain. The player characters might be dumb, but they know how to survive.  
+As a rule of thumb, an animal yields rations equal to its Hit Points when killed.  
+Rotten meat or dirty water requires a Save. Fail, and they get sick. No healing that day.  
+Survival should always feel close. Hunger should always be near.  
+# Gettingn Better
+The life of a prehistoric human is brutal, and often short. Survival is hard fought. There are no skills in this game. The only way to get better is to live long enough to learn.  
+When a character does something big, like surviving a brutal adventure, mastering fire, or slaying a giant beast, they gain experience.  
+When that happens:
+- Add 1d3 HP.
+- Roll 1d20 for each Ability Score. If the roll is higher than the score, increase it by 1.
