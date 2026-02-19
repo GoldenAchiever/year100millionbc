@@ -1,6 +1,6 @@
-
+---
 title: Changelog
-nav_order: 99
+nav_order: 50
 layout: default
 ---
 **February 19th:**  
