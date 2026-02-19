@@ -29,7 +29,7 @@ Rotten meat or dirty water requires a Save. Fail, and they get sick. No healing 
 Survival should always feel close. Hunger should always be near.  
 ## Getting Better
 The life of a prehistoric human is brutal, and often short. Survival is hard fought. There are no skills in this game. The only way to get better is to live long enough to learn.  
-When a character does something big, like surviving a brutal adventure, mastering fire, or slaying a giant beast, they gain experience.<br><br>
+When a character does something big, like surviving a brutal adventure, mastering fire, or slaying a giant beast, they gain experience.  
 When that happens:
 - Add 1d3 HP.
 - Roll 1d20 for each Ability Score. If the roll is higher than the score, increase it by 1.
