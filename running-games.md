@@ -33,3 +33,15 @@ When a character does something big, like surviving a brutal adventure, masterin
 When that happens:
 - Add 1d3 HP.
 - Roll 1d20 for each Ability Score. If the roll is higher than the score, increase it by 1.
+
+## Exploration
+# Overland
+When players travel across the wild, make them track rations. It adds pressure, hunger creeps in fast. Water matters too, but be lenient. It’s often available in rivers, caves, or from plants. Treat it as a concern, not an overbearing obstacle. Rations, on the other hand, run out quick. Let players hunt, scavenge, or fight to survive.
+# Caves
+Caves are dark. Players need light. Without it, they are prone to unwelcome surprises.  
+Tracking torches can be a hassle, so keep it simple. If the group has fire and time, they can make more. If not, the dark soon closes in. Priorotize fun before realism.  
+Sometimes, the cave helps. Bioluminescent fungi glow. Insects flash. These light sources are weak, and unreliable but just enough to move by.
+# Encounters
+Most creatures in this game are animals. They don’t want revenge, or treasure. They want to survive or protect what’s theirs. They flee when hurt. They hunt when hungry. They fight when cornered.  
+The outliers are people. Rivals might be suspicious, curious, or afraid. They grunt and gesture, they might trade or attack.  
+The Man-Eaters are different. Feral, and violent. They are monsters. No talk. Just teeth.
