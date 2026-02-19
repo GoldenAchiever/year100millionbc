@@ -27,7 +27,7 @@ Water can be found by licking cave walls, eating roots or frogs, digging near gr
 As a rule of thumb, an animal yields rations equal to its Hit Points when killed.  
 Rotten meat or dirty water requires a Save. Fail, and they get sick. No healing that day.  
 Survival should always feel close. Hunger should always be near.  
-# Gettingn Better
+## Getting Better
 The life of a prehistoric human is brutal, and often short. Survival is hard fought. There are no skills in this game. The only way to get better is to live long enough to learn.  
 When a character does something big, like surviving a brutal adventure, mastering fire, or slaying a giant beast, they gain experience.  
 When that happens:
