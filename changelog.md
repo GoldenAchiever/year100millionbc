@@ -1,7 +1,7 @@
 
 title: Changelog
-nav_order: 999
-layout: home
+nav_order: 99
+layout: default
 ---
 **February 19th:**  
 Added Running Games section<br><br>
