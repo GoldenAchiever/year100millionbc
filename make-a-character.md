@@ -22,5 +22,6 @@ Each character rolls for starting equipment.<br><br>
 4. Giant club (d8 DMG, bulky), Straw headdress
 5. Pointy stick (d6 DMG), Lump of charcoal, Fur pelt
 6. Sharp rock (d6 DMG), Nice rock (d4), Loincloth<br>
+
 ## Suggested Names:
 Aka, Aruk, Brak, Bruk, Crok, Dagu, Drok, Dum, Eko, Eru, Garo, Gorn, Goru, Grok, Haka, Ika, Jaro, Jok, Krag, Krok, Kru, Krum, Loka, Mako, Moro, Mug, Muru, Noro, Oka, Orak, Otta, Paku, Rok, Rug, Sarn, Seko, Skar, Tarn, Teko, Toko, Trug, Truk, Uga, Urok, Vok, Yaro, Yok, Yug.
