@@ -12,7 +12,7 @@ Start with d6 HP.
 - HP is your buffer before real harm.<br><br>
 Give yourself a name with two syllables  
 Characters can only form 3-word sentences.
-## CArry Things
+## Carry Things
 You can carry two items. Bulky items require two hands. Pockets haven’t been invented yet.  
 Each character rolls for starting equipment.<br><br> 
 **Starting LOADOUT (d6)**
