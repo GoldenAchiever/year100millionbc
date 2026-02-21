@@ -16,7 +16,6 @@ Characters can only form 3-word sentences.
 ## Carry Things
 You can carry two items. Bulky items require two hands. Pockets haven’t been invented yet.  
 Each character rolls for starting equipment.<br><br>
-
 **Starting LOADOUT (d6)**
 1. Big bone (d6 DMG), Big chunk of meat, Boar hide
 2. Wooden club (d6 DMG), 4 apples, Loincloth 
