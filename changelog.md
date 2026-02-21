@@ -10,4 +10,4 @@ Added list of suggested names in Character Creation
 **February 19th:**
 Added Running Games section  
 **February 18th:**
-Created Github
+Created Github repository
