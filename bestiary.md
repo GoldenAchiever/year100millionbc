@@ -59,3 +59,9 @@ Big like hill. Neck like tree. Skin gray. Walk slow. Eat leaf all day.
 Tall. Jump good. Stupid. Run fast. Scared of wind! Scared of ant! Taste good.
 ## Tree-grabber
 Funny man with tail. Likes fruit and honey. If you feed, it help. Not smart like man, mess up easy if not show good.
+
+### Making Friends 101
+Living things that do not wish to eat you respond to kindness, care, or displays of strength. Or simply just abduct them young so they imprint on you!
+- Most living things obey simple commands on a  3-in-6 chance.
+- Trained things obey on a 4-in-6 chance.
+- Stubborn things only obey on a 2-in-6 chance.
