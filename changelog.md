@@ -5,6 +5,8 @@ layout: default
 ---
 My goal is to make add or edit something almost everyday during February to April to see how far I can take <i>Year 100 Million B.C.</i> during this period.<br><br>
 
+**March 1st:**
+Updated the bestiary with notes on how to make friends with other living things.<br><br>
 **February 24th:**
 Added the adventure <a href="https://drive.google.com/file/d/1lwDd5MVm5k5L24glR61CySlusXPfu7gk/view?usp=sharing" target="_blank">The Dying River!</a>  
 **February 21th:**
