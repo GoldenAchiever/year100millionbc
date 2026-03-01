@@ -37,8 +37,8 @@ Each character rolls for starting equipment, clothing, and a distinguishing char
 1. Massive scar
 2. Tremendous unibrow
 3. Magnificent body hair
-4. Eyes far apart
-5. Beautiful large head
+4. Tree stump-neck
+5. Massive forehead
 6. Painted face<br><br>
 
 ## Suggested Names:
