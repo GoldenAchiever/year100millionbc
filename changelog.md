@@ -5,6 +5,9 @@ layout: default
 ---
 My goal is to make add or edit something almost everyday during February to April to see how far I can take <i>Year 100 Million B.C.</i> during this period.<br><br>
 
+**March 15th:**
+Been doing a lot under the hood.  
+Added Creative Commons license to the rules.  
 **March 1st:**
 Updated the bestiary with notes on how to make friends with other living things.  
 Also updated and expanded the character creation procedure.<br><br>
