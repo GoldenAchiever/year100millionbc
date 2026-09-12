@@ -3,8 +3,12 @@ title: Changelog
 nav_order: 50
 layout: default
 ---
+
+#2026
+
 **September 12th:**
 Updated the Github repository with the latest rules, still need to convert all the generators into markdown. 
+
 **March 15th:**
 Been doing a lot under the hood. Also added Creative Commons license to the rules.  
 **March 1st:**
