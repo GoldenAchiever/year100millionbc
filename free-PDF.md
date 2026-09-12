@@ -5,8 +5,7 @@ layout: default
 ---
 
 # IT'S FREE!
-A free trifold pamphlet version of <i>Year 100 Million B.C.</i> Print it, fold it, and play. Contains the basic rules, character creation, bestiary and encounter tables.<br><br>
 
-<a href="https://drive.google.com/file/d/19Qak3OnsrVaZiUQBEGSO3yEmZwZl8uSP/view?usp=sharing" target="_blank">DOWNLOAD HERE</a><br><br>
+Download the rules over on <a href="https://golden-achiever.itch.io/year-100-million-bc" target="_blank">ITCH.IO</a>. Download the file marked as "demo". Those are the rules.<br><br>
 
 <a href="https://golden-achiever.itch.io/the-dying-river" target="_blank">ADVENTURE HERE!</a><br><br> 
