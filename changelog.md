@@ -3,8 +3,8 @@ title: Changelog
 nav_order: 50
 layout: default
 ---
-My goal is to make add or edit something almost everyday during February to April to see how far I can take <i>Year 100 Million B.C.</i> during this period.<br><br>
-
+**September 12th:**
+Updated the Github repository with the latest rules, still need to convert all the generators into markdown. 
 **March 15th:**
 Been doing a lot under the hood. Also added Creative Commons license to the rules.  
 **March 1st:**
