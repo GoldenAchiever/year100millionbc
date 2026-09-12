@@ -4,7 +4,7 @@ nav_order: 50
 layout: default
 ---
 
-#2026
+# 2026
 
 **September 12th:**
 Updated the Github repository with the latest rules, still need to convert all the generators into markdown. 
