@@ -7,6 +7,8 @@ layout: default
 # 2026
 
 **September 12th:**
+Updated the Github repository with the current encounter tables.
+**September 12th:**
 Updated the Github repository with the latest rules, still need to convert all the generators into markdown. 
 
 **March 15th:**
