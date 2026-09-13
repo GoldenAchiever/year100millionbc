@@ -11,5 +11,5 @@ add following text must omewhere visible within your publication:
 [Product name] is an independent production by [Author or Publisher] and is not affiliated with Golden Achiever. It is published under the Year 100 Million B.C. Third Party License.
 
 **3RD PARTY LOGOS:**
-You are allowed and encouraged, but not required to, use one of the “B.C. COMPLIANT” logo.
-<a href="[https://drive.google.com/file/d/1lwDd5MVm5k5L24glR61CySlusXPfu7gk/view?usp=sharing](https://drive.google.com/drive/folders/1cdwq8JAhVKco1G058_4Jg0DnWt4sOXWh?usp=sharing)">DOWNLOAD</a>
+You are allowed and encouraged, but not required to, use one of the “B.C. COMPLIANT” logo.  
+<a href="[https://drive.google.com/file/d/1lwDd5MVm5k5L24glR61CySlusXPfu7gk/view?usp=sharing](https://drive.google.com/drive/folders/1cdwq8JAhVKco1G058_4Jg0DnWt4sOXWh?usp=sharing)">DOWNLOAD HERE</a>
