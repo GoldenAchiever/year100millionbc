@@ -62,7 +62,7 @@ Always roll for encounter. d4 during day, d6 at night.
 5. 1d10 Rivals
 6. 1d10 Meat-Eaters<br><br>
 
-## SWAMP ENCOUNTERS
+## WATER ENCOUNTERS
 Always roll for encounter. d4 during day, d6 at night.  
 1-2. 2d10 Bigmouths
 3. 1d10 Clubtails
