@@ -6,7 +6,7 @@ layout: default
 
 # THINGS TO EAT OR GET EATEN BY
 <br><br>
-![Animals](assets/img/Animals_v2.png)
+![Animals](assets/img/AnimalsWhite.png)
 <br><br>
 
 ## 1. Fatclaw
