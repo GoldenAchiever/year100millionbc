@@ -4,7 +4,7 @@ nav_order: 49
 layout: default
 ---
 
-# 3rd Party License
+# Third Party License
 
 **Please,**
 add following text must omewhere visible within your publication:
