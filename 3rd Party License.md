@@ -7,7 +7,7 @@ layout: default
 # Third Party License
 
 **Please,**
-add following text must omewhere visible within your publication:
+add following text somewhere visible within your publication: 
 [Product name] is an independent production by [Author or Publisher] and is not affiliated with Golden Achiever. It is published under the Year 100 Million B.C. Third Party License.
 
 **3RD PARTY LOGOS:**  
