@@ -1,3 +1,10 @@
+---
+title: Free PDFs
+nav_order: 2
+layout: default
+---
+
+
 ##1000 Meters Below  
 A 30-page megadungeon with Carboniferous vibes, packed with giant insects, mushrooms, and sprawling underground caves.
 https://mad-about-mushrooms.itch.io/1000-meters-below
