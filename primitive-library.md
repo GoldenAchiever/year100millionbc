@@ -8,10 +8,10 @@ layout: default
 
 ### <a href="https://mad-about-mushrooms.itch.io/1000-meters-below">1000 Meters Below</a>  
 A 30-page megadungeon with Carboniferous vibes, packed with giant insects, mushrooms, and sprawling underground caves.
-<br><br>
-###C.H.U.M.  
+  
+### <a href="https://xiaofang64.itch.io/chum">C.H.U.M.</a>  
 A pamphlet adventure that introduces elegant raft mechanics. A gigantic sea creature is terrorizing the neighborhood.
-https://xiaofang64.itch.io/chum
+
 ##Lair of the Hillcarver  
 A pamphlet adventure about claiming a new home by driving out its current occupant, a mighty Megatherium known as the Hillcarver. Don’t let its vegetarian diet fool you. Those claws hurt.
 https://xiaofang64.itch.io/lair-of-the-hillcarver
