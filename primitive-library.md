@@ -4,12 +4,12 @@ nav_order: 25
 layout: default
 ---
 # The Primitive Library<br><br>
-# Third Party Titles:
+## Third Party Titles:
 
-## <a href="https://mad-about-mushrooms.itch.io/1000-meters-below">1000 Meters Below</a>  
+### <a href="https://mad-about-mushrooms.itch.io/1000-meters-below">1000 Meters Below</a>  
 A 30-page megadungeon with Carboniferous vibes, packed with giant insects, mushrooms, and sprawling underground caves.
 <br><br>
-##C.H.U.M.  
+###C.H.U.M.  
 A pamphlet adventure that introduces elegant raft mechanics. A gigantic sea creature is terrorizing the neighborhood.
 https://xiaofang64.itch.io/chum
 ##Lair of the Hillcarver  
