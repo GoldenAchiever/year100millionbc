@@ -1,13 +1,13 @@
 ---
-title: Free PDFs
+title: The Primitive Library
 nav_order: 25
 layout: default
 ---
 
 
-##1000 Meters Below  
+##<a href="https://mad-about-mushrooms.itch.io/1000-meters-below>"1000 Meters Below</a>  
 A 30-page megadungeon with Carboniferous vibes, packed with giant insects, mushrooms, and sprawling underground caves.
-https://mad-about-mushrooms.itch.io/1000-meters-below
+<br><br>
 ##C.H.U.M.  
 A pamphlet adventure that introduces elegant raft mechanics. A gigantic sea creature is terrorizing the neighborhood.
 https://xiaofang64.itch.io/chum
