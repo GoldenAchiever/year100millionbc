@@ -1,10 +1,17 @@
 ---
 title: The Primitive Library
-nav_order: 25
+nav_order: 40
 layout: default
 ---
 # The Primitive Library<br><br>
-## Third Party Titles:
+## Official Modules:
+
+### <a href="https://golden-achiever.itch.io/the-dying-river">The Dying River</a>  
+  
+### <a href="https://golden-achiever.itch.io/the-property-game">The Property Game</a>  
+
+
+## Third Party Modules:
 
 ### <a href="https://mad-about-mushrooms.itch.io/1000-meters-below">1000 Meters Below</a>  
 A 30-page megadungeon with Carboniferous vibes, packed with giant insects, mushrooms, and sprawling underground caves.
