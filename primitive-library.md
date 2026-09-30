@@ -3,10 +3,10 @@ title: The Primitive Library
 nav_order: 25
 layout: default
 ---
-#The Primitive Library<br><br>
-#Third Party Titles:
+# The Primitive Library<br><br>
+# Third Party Titles:
 
-##<a href="https://mad-about-mushrooms.itch.io/1000-meters-below">1000 Meters Below</a>  
+## <a href="https://mad-about-mushrooms.itch.io/1000-meters-below">1000 Meters Below</a>  
 A 30-page megadungeon with Carboniferous vibes, packed with giant insects, mushrooms, and sprawling underground caves.
 <br><br>
 ##C.H.U.M.  
