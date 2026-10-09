@@ -10,6 +10,8 @@ layout: default
   
 ### <a href="https://golden-achiever.itch.io/the-property-game">The Property Game</a>  
 
+### <a href="https://golden-achiever.itch.io/egg-hunt">The Property Game</a>  
+
 
 ## Third Party Modules:
 
@@ -24,6 +26,9 @@ A pamphlet adventure about claiming a new home by driving out its current occupa
 
 ### <a href="https://sam-worthington.itch.io/the-cave-of-too-many-legs">The Cave of Too-Many-Legs</a>   
 A giant centipede’s mountain cave contains what could be the greatest feast ever, if you can survive getting to the eggs. Along the way you’ll encounter a Man-Eater cult, sapient gibbons, desperate swamp dwellers, and more.
+
+### <a href="https://noseatbelts.itch.io/the-hunt-for-the-man-eater">Murder, she painted in the walls of the cave</a>   
+Hunt a vicious sabretooth. Go now. Hunt longtooth.
 
 ### <a href="https://gwannon.itch.io/murder-she-painted-in-the-walls-of-the-cave">Murder, she painted in the walls of the cave</a>   
 Hack for 100 Million B.C. where your cavemen become detectives who must solve a crime.
