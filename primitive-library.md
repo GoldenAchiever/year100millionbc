@@ -10,7 +10,7 @@ layout: default
   
 ### <a href="https://golden-achiever.itch.io/the-property-game">The Property Game</a>  
 
-### <a href="https://golden-achiever.itch.io/egg-hunt">The Property Game</a>  
+### <a href="https://golden-achiever.itch.io/egg-hunt">Egg Hunt</a>  
 
 
 ## Third Party Modules:
